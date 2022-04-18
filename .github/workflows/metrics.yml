@@ -29,5 +29,5 @@ jobs:
           config_timezone: Asia/Shanghai
           plugin_languages: yes
           plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, shell
+            html, css, tex, less, dockerfile, makefile, qmake, lex, shell, perl
           plugin_languages_limit: 6
