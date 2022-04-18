@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Hongtu Xu
+
+- Junior CS student [@ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/)
+- **Graphics is awesome!** Especially interested in **Rendering**.
+- More about me: [Homepage](https://xuht.graphics) | [résumé](https://xuht.graphics/uploads/resume.pdf) | [Blog](https://xehoth.cc)
+
 <!--
 **xehoth/xehoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
